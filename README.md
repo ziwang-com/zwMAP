@@ -1,15 +1,20 @@
 # zwMAP
-zwMap:Python模块库架构图;千言万语不如一张图，全系列Python各种模块库架构图，小白入门学习神器。 zwMap:Python Module library frame composition.A picture is worth a thousand words. The whole series of Python module library frame composition, Xiaobai beginner learning artifact.
+![](pp01.png)
 
-![Alt text](fastai_datasets.png)
+zwMap:Python模块库架构图;千言万语不如一张图，全系列Python各种模块库架构图，小白入门学习神器。 zwMap:Python Module library frame composition.A picture is worth a thousand words. The whole series of Python module library frame composition, Xiaobai beginner learning artifact.
+![](pp03.png)
+
+
 
 模块库架构图，又称：功能结构图，相当于硬件设备的电路图，无论是初学者，还是高级程序员，都是必不可少的。
 Module library frame composition, also known as: functional structure diagram, is equivalent to the circuit diagram of hardware equipment. It is essential for both beginners and advanced programmers.
 
+![@fastai](fastai_datasets.png)
+
+![](fastai2_data_block.png)
+
 其作用，相当于《智取威虎山》中先遣图：
 Its function is equivalent to that of the forerunner picture in "taking the tiger mountain by wisdom":
-
-
 
 《智取威虎山》中先遣图一共有三张，分别是先遣军联络图、弹药分布图和藏宝图。座山雕迫切需要的《先遣图》有：先遣军的分布位置（约7000人）、前东北军弹药的分布(共计有6座秘密弹药库)、和前东北军的张作霖藏宝图（其中有20吨黄金）。
 There are three advance maps in "taking Weihu mountain by wisdom", which are the contact map of the advance troops, the ammunition distribution map and the treasure map. The "advance map" urgently needed by Zuoshan carving includes: the location of the advance troops (about 7000 people), the distribution of ammunition of the former Northeast Army (a total of six secret ammunition depots), and the treasure map of Zhang zuolin of the former Northeast Army (including 20 tons of gold).
@@ -19,6 +24,12 @@ After Yang Zirong went up the mountain, he presented the advance map. After many
 
 功能结构图是对硬件、软件、解决方案等进行解剖，详细描述功能列表的结构，构成，剖面的从大到小，从粗到细，从上到下等而描绘或画出来的结构图。
 Function structure diagram is the structure diagram that dissects the hardware, software and solutions, describes the structure and composition of function list in detail, and describes the structure of section from large to small, from coarse to fine, from top to bottom.
+
+
+![](pandas_zw.png)
+
+![](torch16_hub.png)
+
 
 对于Python等开源项目，与商业软件的一个核心差异，就在于缺乏技术支持，其中的关键，就是缺乏项目系统的模块库架构图。
 For Python and other open source projects, a core difference with commercial software lies in the lack of technical support. The key is the lack of module library framework composition of the project system.
@@ -92,6 +103,9 @@ Group number: 124134140, top extremely wide financial quantification, 3000 peopl
 Group number: 699266891, TFB football big data QQ group
 
 【微信公众号】
+
+![](torch16_hub.png)
+
 The official account of WeChat
 请大家关注TOP极宽量化公众号，大量原创Python量化技术资料和课件、案例源码。目前推广期间，关注公众号，即可免费浏览。
 Please pay attention to TOP extremely wide official account, a large number of original Python quantitative technical information and courseware, case source. The official account can be freely viewed during the promotion period.
