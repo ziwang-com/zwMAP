@@ -59,21 +59,21 @@ PS, business version, no watermark background.
 请大家注意zwPython.com,ziwang.com，TopQuant.vip网站，公众号的最新消息。
 Attention, please zwPython.com , ziwang.com , TopQuant.vip Website, official account of the public.
 
-全部一千多个Python主流模块库（约16G），均已上传到zw百度网盘，提供免费下载。
+全部一千多个Python主流模块库（约16G），均已上传到zw百度网盘，提供免费下载。 
 All of the more than 1000 Python mainstream module libraries (about 16g) have been uploaded to ZW Baidu disk for free download.
 --------------
 【zw模块库架构图·网盘】
 [ZW module library frame composition · online disk]
 @zwmap,download ： https://pan.baidu.com/s/194KsRHjXTP_DYvx1ylcaVw  提取码password： zbq2
 
-全部一千多个Python主流模块库，均已上传到zw百度网盘，提供免费下载。因文件太多，容量较大，约16G，特分为三个子目录下载。
-All the more than 1000 Python mainstream module libraries have been uploaded to ZW Baidu network disk for free download. Due to too many files and large capacity, about 16g, it is divided into three subdirectories to download.
 --------------
-其他资源，参见【zw百度网盘2020】
+其他资源，参见【zw百度网盘2020】 
 For other resources, see [ZW Baidu disk 2020]
-链接：https://pan.baidu.com/s/1lCMNVJW00cpR_EJ0YLDeCA   提取码password： jolm
-zwPython，Top极宽量化相关软件&amp;课件、数据包，均在zw百度网盘发布。
-Zwpthon, top extremely wide quantization related software &amp; courseware, data package, are released in ZW Baidu online disk.
+链接：https://pan.baidu.com/s/1lCMNVJW00cpR_EJ0YLDeCA 提取码password： jolm 
+ 
+ zwPython，Top极宽量化相关软件&课件、数据包，均在zw百度网盘发布。 
+ zwpython, top extremely wide quantization related software & courseware, data package, are released in ZW Baidu online disk.
+
 --------------
 如以上网盘失效，请访问 zwPython.com，或者TopQuant.vip，网站【下载中心】有最新的下载地址信息
 If the above network disk fails, please visit zwPython.com Or TopQuant.vip，
