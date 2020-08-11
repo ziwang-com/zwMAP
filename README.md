@@ -80,12 +80,18 @@ If the above network disk fails, please visit zwPython.com Or TopQuant.vip，
 The website [download center] has the latest download address information
 www.topquant.vip/?p=56
 
-本主题由 ziwang 于 2020-7-29 10:21 置顶
-收藏收藏
-【极宽QQ群】
-群号：1057170501 ，zwPython.com学习QQ群，面向py初学者和大众小白用户。
-群号：124134140，TOP极宽金融量化，三千人超大QQ群，面向专业金融实盘用户。
-群号：699266891，TFB极宽足球大数据QQ群
-【微信公众号】
-请大家关注TOP极宽量化公众号，大量原创Python量化技术资料和课件、案例源码。目前推广期间，关注公众号，即可免费浏览。
+------------
 
+【极宽QQ群】
+[QQ group]
+群号：1057170501 ，zwPython.com学习QQ群，面向py初学者和大众小白用户。
+No. 7071501, zwPython.com Learning QQ group, facing py beginners and public small white users.
+群号：124134140，TOP极宽金融量化，三千人超大QQ群，面向专业金融实盘用户。
+Group number: 124134140, top extremely wide financial quantification, 3000 people super large QQ group, for professional financial real offer users.
+群号：699266891，TFB极宽足球大数据QQ群
+Group number: 699266891, TFB football big data QQ group
+
+【微信公众号】
+The official account of WeChat
+请大家关注TOP极宽量化公众号，大量原创Python量化技术资料和课件、案例源码。目前推广期间，关注公众号，即可免费浏览。
+Please pay attention to TOP extremely wide official account, a large number of original Python quantitative technical information and courseware, case source. The official account can be freely viewed during the promotion period.
