@@ -1,5 +1,5 @@
 # zwMAP
-![](pp01.png)
+![@zwPython](pp01.png)
 
 zwMap:Python模块库架构图;千言万语不如一张图，全系列Python各种模块库架构图，小白入门学习神器。 zwMap:Python Module library frame composition.A picture is worth a thousand words. The whole series of Python module library frame composition, Xiaobai beginner learning artifact.
 ![](pp03.png)
@@ -11,7 +11,7 @@ Module library frame composition, also known as: functional structure diagram, i
 
 ![@fastai](fastai_datasets.png)
 
-![](fastai2_data_block.png)
+![@zwPython](fastai2_data_block.png)
 
 其作用，相当于《智取威虎山》中先遣图：
 Its function is equivalent to that of the forerunner picture in "taking the tiger mountain by wisdom":
@@ -26,9 +26,9 @@ After Yang Zirong went up the mountain, he presented the advance map. After many
 Function structure diagram is the structure diagram that dissects the hardware, software and solutions, describes the structure and composition of function list in detail, and describes the structure of section from large to small, from coarse to fine, from top to bottom.
 
 
-![](pandas_zw.png)
+![@zwPython](pandas_zw.png)
 
-![](torch16_hub.png)
+![@zwPython](torch16_hub.png)
 
 
 对于Python等开源项目，与商业软件的一个核心差异，就在于缺乏技术支持，其中的关键，就是缺乏项目系统的模块库架构图。
@@ -104,7 +104,7 @@ Group number: 699266891, TFB football big data QQ group
 
 【微信公众号】
 
-![](torch16_hub.png)
+![@zwPython](torch16_hub.png)
 
 The official account of WeChat
 请大家关注TOP极宽量化公众号，大量原创Python量化技术资料和课件、案例源码。目前推广期间，关注公众号，即可免费浏览。
