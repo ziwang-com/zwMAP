@@ -1,0 +1,44 @@
+《python创作者联盟》
+
+http://ziwang.com/forum.php?mod=viewthread&tid=7
+(出处: zwPython.com研习社)
+
+
+
+
+
+Python学习，进入图解时代。
+俗话说：千言万语，不如一张图。
+如今是信息时代，大数据+AI人工智能，十倍速竞争。
+任何行业，时间成本，始终是第一位的。
+对于各位Python程序员，博主以及写作者而言。
+Python模块图的发布，可以最大程度上，方便大家理解模块库的设计逻辑。
+大大缩短写作周期，聚焦于个人创意idea，提高写作效率。
+参见：《全球首发：zw版Python全系列模块库架构图》 http://www.zwpython.com/forum.php?mod=viewthread&tid=6#lastpost
+
+TOP极宽开源团队，和全球最大的中文IT图书出版机构：博文·电子工业出版社，推出的《TopQuant极宽量化》系列，已经是国内金融科技图书领域第一品牌。
+其中《零起点Python》三部曲，已经成为国内多所大学的教科书，图书版权也已经成功输出到海外地区。
+参见：《TOP极宽量化·开源组图书展示》 http://www.topquant.vip/?p=461
+     
+  
+为推动国内python开源项目发展，Top开源团队，愿意为全球Python创作者，提供相关各种优质的模块库架构图。
+近期，我们会推出国内首套专业化的《图解Python系列》丛书，主要专题是：
+
+
+<div>Python入门课程
+Pandas数据分析
+Python可视化
+AI人工智能、神经网络
+python机器人应用，包括python树莓派应用
+Python金融量化：Backtrader，zipline，qp等专业量化模块库应用
+ai+quant：人工智能在金融量化领域的应用，如：智能投顾，联邦学习</div>
+复制代码
+
+其中重点是：ai+quant，这块国内除了Top团队的几部图书，基本上还是空白。
+欢迎广大Python爱好者，博主，作者积极加盟。
+特别是相关网站大V、blog专栏，图书作品作者。
+TOP极宽量化开源组
+联系人：zw
+微信： zwPython
+QQ：357811718
+网站： TopQuant.vip  zwPython.com
