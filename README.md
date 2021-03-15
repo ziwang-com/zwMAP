@@ -1,12 +1,12 @@
 # zwMAP
-![@zwPython](pp01.png)
+![@zwPython](_images/pp01.png)
 
 zwMAP:Python Module library frame MAP.
 Zwmap, series MAP of Python module library frameworkn
 Thousands of words are not as good as a picture, and the white begins to learn the artifact.
 Module library frame MAP, also known as: functional structure diagram, is equivalent to the circuit diagram of hardware equipment, whether it is the beginners' enlightenment, or reverse engineering, open source projects, are indispensable.
 
-![do-it](pp03.png)
+![do-it](_images/pp03.png)
 The updated module library in this period includes:
 backtrader-1.9.74
 bioPython-1.7.8
@@ -25,9 +25,9 @@ torch-1.8
 torchmetrics-0.2
 torchvision-0.9
 
-![@pandas](pandas_zw.png)
+![@pandas](_images/pandas_zw.png)
 
-![@torch](torch16_hub.png)
+![@torch](_images/torch16_hub.png)
 
 
 zwMAP:Python模块库架构图
@@ -37,6 +37,7 @@ zwMAP,全系列Python模块库架构图.
 本期更新的模块库包括：
 
 请大家注意zwPython.com,ziwang.com，TopQuant.vip网站，公众号的最新消息。
+
 ![@pandas](_images/TOP_pub02x.png)
 
 全部一千多个Python主流模块库（约16G），均已上传到zw百度网盘，提供免费下载。
