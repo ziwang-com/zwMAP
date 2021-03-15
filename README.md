@@ -1,5 +1,5 @@
 # zwMAP
-![@zwPython](_images/zwpy2020logo1k.png)
+![@zwPython](_images/zwpy2020logo1300.png)
 
 ![@zwPython](_images/pp01.png)
 
