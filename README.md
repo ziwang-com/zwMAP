@@ -28,6 +28,8 @@ mxnet-1.8
 
 pandas-1.2.3
 
+pytorch-lightning-1.2.3
+
 pl-bolts-0.3.1
 
 pl-flash-0.2.1
