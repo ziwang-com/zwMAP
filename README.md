@@ -9,8 +9,11 @@ Thousands of words are not as good as a picture, and the white begins to learn t
 Module library frame MAP, also known as: functional structure diagram, is equivalent to the circuit diagram of hardware equipment, whether it is the beginners' enlightenment, or reverse engineering, open source projects, are indispensable.
 
 ![do-it](_images/pp03.png)
+
 The updated module library in this period includes:
+
 backtrader-1.9.74
+
 bioPython-1.7.8
 fastai-2.2.7
 fastcore-1.3.19
