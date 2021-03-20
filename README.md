@@ -32,7 +32,7 @@ Further updates will follow on GitHub. You can also follow the latest news from 
 后续更新也会及时跟进到Github上，大家也可以关注网址：zwPython.com，或ziwang.com，或TopQuant.vip，及TOP极宽量化（微信号:zwpython_com）微信公众号的最新消息。
 
 
-![@pandas](_images/TOP_pub02x.png)
+![@zwPython](_images/zwpy2pub.png)
 
 全部一千多个Python主流模块库（约16G），均已上传到zw百度网盘，提供免费下载。
 --------------
