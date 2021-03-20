@@ -19,39 +19,8 @@ No matter beginners’ first lesson or the man who make RE ( Reverse Engineering
 The module library diagrams updated March 18 2021.
 本期更新的模块库包括：
 
-backtrader-1.9.74
-
-bioPython-1.7.8
-
-fastai-2.2.7
-
-fastcore-1.3.19
-
-keras-2.4
-
-matplotlib.org-3.3.4
-
-mxnet-1.8
-
-pandas-1.2.3
-
-pytorch-lightning-1.2.3
-
-pl-bolts-0.3.1
-
-pl-flash-0.2.1
-
-scikit-learn-0.24.1
-
-tensorflow-2.4.1
-
-tf-datasets-4.2
-
-torch-1.8
-
-torchmetrics-0.2
-
-torchvision-0.9
+albumentations,backtrader,biopython,bokeh,bs4,caffe2,ccxt,dash,django,eli5,empyrical,fastai,fastapi,fastcore,flask,fontTools,gensim,gluon,gym,hiplot,hummingbird,mxnet,IPython,jieba,keras,librosa,lightgbm,lime,matplotlib,metrics,nltk,numpy,pandas,PIL,pl-flash,plotly,pl-bolts,lightning,pydicom,pyecharts,pyfolio,pygame,pytest,robobrowser,scipy,scrapy,seaborn,selenium,skimage,sklearn,spacy,statsmodels,tensorflow,tensorlayer,tf-datasets,theano,torch,torch_geometric,torchaudio,torchmetrics,torchtext,torchvision,tpot,transformers,xgboost,zipline
+……
 
 
 ![@pandas](_images/pandas_zw.png)
@@ -59,13 +28,9 @@ torchvision-0.9
 ![@torch](_images/torch16_hub.png)
 
 
-zwMAP:Python模块库架构图
-zwMAP,全系列Python模块库架构图.
-千言万语不如一张图，小白入门学习神器。 
-模块库架构图，又称：功能结构图，相当于硬件设备的电路图，无论是初学者启蒙入门，还是逆向工程、开源项目，都是必不可少的。
-本期更新的模块库包括：
+Further updates will follow on GitHub. You can also follow the latest news from zwPython.com, or ziwang.com, also topquant.vip. The WeChat Official Accounts TOP 极宽量化(WeChat ID: zwpython_com) welcome your attention to check for the hot news.
+后续更新也会及时跟进到Github上，大家也可以关注网址：zwPython.com，或ziwang.com，或TopQuant.vip，及TOP极宽量化（微信号:zwpython_com）微信公众号的最新消息。
 
-请大家注意zwPython.com,ziwang.com，TopQuant.vip网站，公众号的最新消息。
 
 ![@pandas](_images/TOP_pub02x.png)
 
