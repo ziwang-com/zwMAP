@@ -3,14 +3,21 @@
 
 ![@zwPython](_images/pp01.png)
 
-zwMAP:Python Module library frame MAP.
-Zwmap, series MAP of Python module library frameworkn
-Thousands of words are not as good as a picture, and the white begins to learn the artifact.
-Module library frame MAP, also known as: functional structure diagram, is equivalent to the circuit diagram of hardware equipment, whether it is the beginners' enlightenment, or reverse engineering, open source projects, are indispensable.
+zwMap: This is an introduction to zwMap, which is a series of module library diagrams about Python, including all class libraries.
+zwMap: 这是对zwMap的介绍，它是一系列关于Python的模块库架构图，包括所有类库。
+
+Now the ball is in your court. As a freshman, you could decide whether you’re going to make the effort to get more serious about studying Python. zwMap is the sword to help you do  more thru stick a hole in the digital world’s shield.
+千言万语不如一张图，小白入门学习神器。
+
+  The module library diagrams also known as Functional structure diagram, which is an equivalent of that circuit schematics for hardware devices.
+No matter beginners’ first lesson or the man who make RE ( Reverse Engineering) and OPS （Open Source Project）, it is essential.
+模块库架构图，又称：功能结构图，相当于硬件设备的电路图。无论是初学者启蒙入门，还是逆向工程、开源项目，都是必不可少的。 
+
 
 ![do-it](_images/pp03.png)
 
-The updated module library in this period includes:
+The module library diagrams updated March 18 2021.
+本期更新的模块库包括：
 
 backtrader-1.9.74
 
